@@ -1,0 +1,20 @@
+{
+  "name": "2belajar-nodejs-npm-library",
+  "version": "1.1.1",
+  "type": "module",
+  "description": "belajar membuat library",
+  "exports": {
+    ".": "./index.js",
+    "./number": "./number.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "doaibu",
+    "doaibu",
+    "doaibu"
+  ],
+  "author": "doaibu",
+  "license": "ISC"
+}
